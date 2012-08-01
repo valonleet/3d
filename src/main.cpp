@@ -90,8 +90,5 @@ int main(void) {
 	std::cout << "pl1 and pl2 are parallel: " << parallel(pl1, pl2) << std::endl;
 	std::cout << "pl1 and pl2 are perpendicular: " << perpendicular(pl1, pl2) << std::endl;
 
-	char c;
-	std::cin >> c;
-
 	return 0;
 }
